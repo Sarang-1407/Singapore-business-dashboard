@@ -26,6 +26,7 @@ The dashboard includes the following seven visualizations:
 
 ## File Contents
 
+- **ACRAInformationonCorporateEntitiesP.csv**: The dataset used for the visualization.
 - **Dashboard.twbx**: Tableau workbook file containing the visualizations and dashboard layout.
 - **Dashboard.jpg**: Static image of the dashboard for easy preview without opening Tableau.
 
@@ -36,7 +37,6 @@ The dashboard includes the following seven visualizations:
 
 ## Filtering and Customization
 
-- The **Geographic Distribution** map is filtered to show the top 10-20 postal codes by frequency to avoid clutter. This setting can be adjusted by modifying the filters within Tableau.
 - Entity status categories have been grouped to provide a cleaner view of active and inactive businesses.
 
 ## Usage
@@ -50,3 +50,5 @@ The dashboard can be used by analysts, business researchers, or policymakers to:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+P.S- This assignment was part of the hiring procedure for the role of Business Intelligence Engineer (BI Engineer) at Bureau.id ✅
